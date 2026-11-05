@@ -1,0 +1,32 @@
+Cloud Computing
+
+Cloud computing is the delivery of computing services
+such as servers, storage, databases, networking and
+software over the internet.
+
+It allows users to access computing resources without
+owning or maintaining physical infrastructure.
+
+Amazon Web Services (AWS), Microsoft Azure and Google
+Cloud Platform (GCP) are popular cloud providers.
+
+Cloud computing offers several benefits:
+
+1. Scalability: Resources can be increased or decreased
+based on demand.
+
+2. Cost Efficiency: Users pay for the resources they use
+instead of purchasing expensive hardware.
+
+3. Availability: Cloud services can be accessed from
+different geographical locations.
+
+4. Flexibility: Organizations can deploy applications
+without managing physical servers.
+
+Amazon S3 is an object storage service provided by AWS.
+It allows users to store and retrieve data such as images,
+videos, documents and backups.
+
+Amazon EC2 is a cloud computing service that provides
+virtual servers called instances.
